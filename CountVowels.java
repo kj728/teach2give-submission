@@ -17,6 +17,6 @@ public class CountVowels {
                 vowelCount++; //increment vowel count by 1
             }
         }
-        System.out.println(vowelCount);
+        System.out.println(vowelCount); //print the number of vowels
     }
 }
