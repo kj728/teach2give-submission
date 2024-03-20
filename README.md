@@ -1,1 +1,1 @@
-Author: Kubai James Karomo
+Author: KJ
